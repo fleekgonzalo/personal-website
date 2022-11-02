@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bdbce54.css",
+    "main.js": "/static/js/main.26809d4f.js",
+    "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
+    "static/media/photo_rob.jpg": "/static/media/photo_rob.e49f7416d79010cd06b3.jpg",
+    "static/media/close-button.png": "/static/media/close-button.c666314395a33c78fb1d.png",
+    "static/media/fira_dao_logo_3.png": "/static/media/fira_dao_logo_3.5ecbed8ecc4ca7890341.png",
+    "static/media/iabsis_logo_2.png": "/static/media/iabsis_logo_2.f4df02cefc0c8c3e17b4.png",
+    "static/media/inkin_logo_2.png": "/static/media/inkin_logo_2.28877a9056c59c48f06a.png",
+    "static/media/etrooperz_logo_3.png": "/static/media/etrooperz_logo_3.7f8c760f97cb273cd734.png",
+    "static/media/blockem_logo_2.png": "/static/media/blockem_logo_2.385f14b9be10846cd65d.png",
+    "static/media/Artinarm logo.png": "/static/media/Artinarm logo.15bb3846206e9af6db78.png",
+    "static/media/2.svg": "/static/media/2.8fc2b27153e9ec87bb96152cea4320e0.svg",
+    "static/media/5.svg": "/static/media/5.e0c4f25f5900dde5a0a75dae3bf26eeb.svg",
+    "static/media/1.svg": "/static/media/1.dae8d4ebd49f685cda7faa0fec1ed2fd.svg",
+    "static/media/6.svg": "/static/media/6.ed25ae2b15e3eeb632b23ddc4495c3d6.svg",
+    "static/media/4.svg": "/static/media/4.0634a0879aa97d8a30c13e7168f9e525.svg",
+    "index.html": "/index.html",
+    "static/media/7.svg": "/static/media/7.54167af8cda15023440e5b6bd0394eb0.svg",
+    "static/media/3.svg": "/static/media/3.c8fc1e1f874593f6f5a7ce13e9eff4bc.svg",
+    "static/media/menu-icon.svg": "/static/media/menu-icon.66fd5b9e1085c31b07284ca23efbb1d5.svg",
+    "main.9bdbce54.css.map": "/static/css/main.9bdbce54.css.map",
+    "main.26809d4f.js.map": "/static/js/main.26809d4f.js.map",
+    "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bdbce54.css",
+    "static/js/main.26809d4f.js"
+  ]
+}
